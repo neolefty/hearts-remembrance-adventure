@@ -52,9 +52,21 @@
 - **Mission**: Gain recognition for plant consciousness
 - **Traveling with**: 3 druids, 2 awakened wolves, countless birds, a mobile grove
 
+## Returning After Absence
+
+### 8. Githyanki Delegation - The Silvered Chain
+**Representative**: Zetch'r'r the Humbled
+- Former raider-captain who led her people to skip the last Remembrance
+- Believed the ritual was "weakness for lesser races"
+- **The Consequence**: 147 years of escalating internal strife, three civil wars, loss of two ancestral silver swords
+- **The Lesson**: Their prideful isolation bred paranoia; former allies became enemies within
+- **Mission**: Prove they understand that strength comes through connection, not dominion
+- **Traveling with**: 6 knights (half their former number), 2 young githyanki born after the troubles, gifts of astral silk
+- **Visible Changes**: Now wear simple clothes instead of elaborate armor, speak softly instead of commanding
+
 ## Seeking First Recognition
 
-### 8. Orcish Delegation - The Bloodfist Clan
+### 9. Orcish Delegation - The Bloodfist Clan
 **Representative**: Warchief Grashk the Glorious
 - Seeks personal glory and legendary status
 - Misunderstands the ritual as a contest of strength
@@ -62,14 +74,14 @@
 - **Traveling with**: 20 elite warriors, 3 shamans, war drummers
 - **Hidden Truth**: Destined to learn humility and true leadership through the ritual
 
-### 9. Underdark Delegation - House Mel'thiir (Reformed Drow)
+### 10. Underdark Delegation - House Mel'thiir (Reformed Drow)
 **Representative**: Priestess Velara Mel'thiir
 - Turned from Lolth to Eilistraee (goddess of good drow)
 - Faces assassination attempts from traditionalists
 - **Mission**: Prove the drow can choose redemption
 - **Traveling with**: 8 converts, 2 surface-born drow children, gifts of healing fungi
 
-### 10. Awakened Delegation - The Sparked Minds
+### 11. Awakened Delegation - The Sparked Minds
 **Representative**: Brightfang the Eloquent
 - Wolf awakened by druidic magic, learned to love philosophy
 - Speaks for all awakened animals gaining consciousness

@@ -24,6 +24,20 @@ When the party has earned his trust (perhaps through their actions in Lost Mine)
 
 ## Early Signs: The Delegations Arrive
 
+### The Chastened Return
+**First Sign**: Silver-skinned warriors seen at dawn, moving like they're afraid to disturb the air
+- Local militia report "invaders" who bow and retreat when spotted
+- Merchants find payment left for goods no one saw taken
+- Children report "sad knights" watching them play
+
+**The Delegation**: The Githyanki of the **Silvered Chain**
+- Led by **Zetch'r'r the Humbled**, who wears her shame like armor
+- Once commanded hundreds; now grateful for the six who still follow
+- They missed the last Remembrance out of pride—147 years of civil war followed
+- Brings gifts but expects nothing, prepared for rejection
+
+## Other Delegations
+
 ### The Dwarven Preparers
 **First Sign**: Prospectors appear in the hills, but they're not looking for ore
 - Measuring distances between standing stones
