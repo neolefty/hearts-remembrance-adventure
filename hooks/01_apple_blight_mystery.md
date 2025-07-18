@@ -1,5 +1,7 @@
 # The Apple Blight Mystery
 
+*[← Back to Adventure Hooks](../early_adventure_hooks.md) | [Next: Mining Meditation →](02_mining_meditation.md)*
+
 ## Hook Summary
 Daran Edermath's prized apple trees are dying from a strange silvery blight. Local farmers fear for the harvest.
 

@@ -1,5 +1,7 @@
 # The Family Heirloom
 
+*[← Previous: Underground Tremors](04_underground_tremors.md) | [Back to Adventure Hooks](../early_adventure_hooks.md) | [Next: Old Friend's Favor →](06_old_friends_favor.md)*
+
 ## Hook Summary
 Daran needs escorts to deliver a sealed box to his "nephew" in Triboar. The box must not be opened.
 

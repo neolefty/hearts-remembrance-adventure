@@ -1,5 +1,7 @@
 # The Howling Diplomat
 
+*[← Previous: Refugee's Riddle](07_refugees_riddle.md) | [Back to Adventure Hooks](../early_adventure_hooks.md)*
+
 ## Hook Summary
 Wolves near town act strangely - not hunting, just watching. One was reportedly heard speaking.
 

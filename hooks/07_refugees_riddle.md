@@ -1,5 +1,7 @@
 # The Refugee's Riddle
 
+*[← Previous: Old Friend's Favor](06_old_friends_favor.md) | [Back to Adventure Hooks](../early_adventure_hooks.md) | [Next: Howling Diplomat →](08_howling_diplomat.md)*
+
 ## Hook Summary
 A mother seeks her son who joined a "traveling carnival" that speaks of "the grandmother who remembers" and "practicing for the gathering."
 

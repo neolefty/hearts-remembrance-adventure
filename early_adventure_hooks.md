@@ -4,28 +4,28 @@
 
 ## Hooks from Around Phandalin
 
-### 1. The Apple Blight Mystery
+### 1. [The Apple Blight Mystery](hooks/01_apple_blight_mystery.md)
 **Source**: Local farmers
 **The Hook**: Daran Edermath's prized apple trees are dying, along with several other orchards. A strange silvery blight spreads from tree to tree. Farmers fear it will destroy the harvest.
 **The Truth**: The Peace Trees' distant cousins are reacting to the approaching Remembrance, shedding their earthly forms. The "blight" is actually a transformation.
 **Reward**: 200 gp from concerned farmers, plus Daran's special cider
 **Combat**: Blight-maddened animals, possible plant creatures
 
-### 2. The Mining Meditation
+### 2. [The Mining Meditation](hooks/02_mining_meditation.md)
 **Source**: Phandalin Miner's Exchange
 **The Hook**: Dwarf prospectors are paying top coin for guides to specific coordinates in the hills. They claim to be looking for a new type of ore but refuse to say more. One team hasn't returned.
 **The Truth**: Clan Truthforge's advance scouts are measuring ley lines. The missing team found a Truthstone in a cave system.
 **Reward**: 50 gp per day as guides, 500 gp for finding the missing team
 **Combat**: Cave hazards, possibly creatures guarding the Truthstone
 
-### 3. The Stolen Chickens Caper
+### 3. [The Stolen Chickens Caper](hooks/03_stolen_chickens_caper.md)
 **Source**: Barthen's Provisions
 **The Hook**: Someone is stealing chickens - but leaving payment. Even stranger, the chickens reappear days later with tiny silver bells on their legs. Barthen wants answers.
 **The Truth**: Kobold scouts are "borrowing" chickens to test for traps and danger, then returning them "improved"
 **Reward**: 100 gp and store credit
 **Combat**: Kobold "security measures," misunderstandings that escalate
 
-### 4. The Underground Tremors
+### 4. [The Underground Tremors](hooks/04_underground_tremors.md)
 **Source**: Harbin Wester (the townmaster)
 **The Hook**: Wells are acting strange - water levels rising and falling, strange sounds from below. One well even glowed briefly. Citizens demand action.
 **The Truth**: Drow delegation traveling through the Underdark below, their passage disturbing ancient waterways
@@ -34,14 +34,14 @@
 
 ## Daran's "Unrelated" Requests
 
-### 5. The Family Heirloom
+### 5. [The Family Heirloom](hooks/05_family_heirloom.md)
 **Source**: Daran Edermath
 **The Hook**: Daran's getting old and wants to pass down a family heirloom to his "nephew" in Triboar. He needs escorts for the journey. The box must not be opened.
 **The Truth**: The box contains a Truthstone. The "nephew" is another Watcher. Daran is testing if the party can be trusted.
 **Reward**: 150 gp plus traveling expenses
 **Combat**: Bandits who somehow know about the box, strange dreams while carrying it
 
-### 6. The Old Friend's Favor
+### 6. [The Old Friend's Favor](hooks/06_old_friends_favor.md)
 **Source**: Daran Edermath
 **The Hook**: Daran's "old adventuring companion" sent a letter asking him to investigate strange sounds from Cragmaw Cave (now empty after the party cleared it). Daran's too old for such work.
 **The Truth**: Githyanki scouts are using the abandoned cave as a temporary base while their delegation decides whether to approach
@@ -50,14 +50,14 @@
 
 ## The Wanderer's Problems
 
-### 7. The Refugee's Riddle
+### 7. [The Refugee's Riddle](hooks/07_refugees_riddle.md)
 **Source**: A desperate mother at the inn
 **The Hook**: Her son joined a "traveling carnival" that promised to show him the world. She's received strange letters mentioning "the grandmother who remembers" and "practicing for the gathering."
 **The Truth**: The boy joined the Roadhearts delegation. He's safe but committed to something bigger.
 **Reward**: 50 gp (her life savings), information about other missing youth
 **Combat**: Potential conflict with protective delegation members
 
-### 8. The Howling Diplomat
+### 8. [The Howling Diplomat](hooks/08_howling_diplomat.md)
 **Source**: Sister Garaele (priestess of Tymora)
 **The Hook**: Wolves have been seen near town acting strangely - not hunting, just watching. One was heard speaking. The shrine wants them investigated.
 **The Truth**: Awakened wolf scouts for the Sparked Minds, evaluating if humanoids can be trusted

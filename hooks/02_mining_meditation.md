@@ -1,5 +1,7 @@
 # The Mining Meditation
 
+*[← Previous: Apple Blight Mystery](01_apple_blight_mystery.md) | [Back to Adventure Hooks](../early_adventure_hooks.md) | [Next: Stolen Chickens Caper →](03_stolen_chickens_caper.md)*
+
 ## Hook Summary
 Dwarf prospectors are hiring guides to specific coordinates, claiming to seek new ore. One team has vanished.
 

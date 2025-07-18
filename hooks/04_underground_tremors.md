@@ -1,5 +1,7 @@
 # The Underground Tremors
 
+*[← Previous: Stolen Chickens Caper](03_stolen_chickens_caper.md) | [Back to Adventure Hooks](../early_adventure_hooks.md) | [Next: Family Heirloom →](05_family_heirloom.md)*
+
 ## Hook Summary
 Wells act strangely - water levels fluctuate, odd sounds emerge, and one well briefly glowed.
 

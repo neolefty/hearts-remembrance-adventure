@@ -1,5 +1,7 @@
 # The Stolen Chickens Caper
 
+*[← Previous: Mining Meditation](02_mining_meditation.md) | [Back to Adventure Hooks](../early_adventure_hooks.md) | [Next: Underground Tremors →](04_underground_tremors.md)*
+
 ## Hook Summary
 Someone steals chickens but leaves payment. The chickens return days later with tiny bells attached.
 

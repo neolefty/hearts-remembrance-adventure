@@ -1,5 +1,7 @@
 # The Old Friend's Favor
 
+*[← Previous: Family Heirloom](05_family_heirloom.md) | [Back to Adventure Hooks](../early_adventure_hooks.md) | [Next: Refugee's Riddle →](07_refugees_riddle.md)*
+
 ## Hook Summary
 Daran's "old adventuring companion" reports strange sounds from Cragmaw Cave. He's too old to investigate himself.
 
