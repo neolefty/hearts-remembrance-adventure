@@ -16,6 +16,17 @@ Every ~150 years, the Heart of the Mountain emerges to renew the peace that save
 - [Phandalin History](phandalin_history.md) - Regional history and adventure hooks
 - [Delegations List](delegations_list.md) - All groups attending the ritual
 - [Delegation Encounters](delegation_encounters.md) - How the party meets each delegation
+- [Early Adventure Hooks](early_adventure_hooks.md) - Starting adventures that gradually reveal the truth
+
+### Adventure Hooks (Level 5+)
+1. [Apple Blight Mystery](hooks/01_apple_blight_mystery.md) - Daran's orchards suffer a strange transformation
+2. [Mining Meditation](hooks/02_mining_meditation.md) - Dwarf prospectors seek mysterious coordinates
+3. [Stolen Chickens Caper](hooks/03_stolen_chickens_caper.md) - Kobolds "improve" local livestock
+4. [Underground Tremors](hooks/04_underground_tremors.md) - Wells act strangely as drow pass below
+5. [Family Heirloom](hooks/05_family_heirloom.md) - Daran tests the party with a special delivery
+6. [Old Friend's Favor](hooks/06_old_friends_favor.md) - Investigate githyanki in Cragmaw Cave
+7. [Refugee's Riddle](hooks/07_refugees_riddle.md) - Track missing youth who joined the Roadhearts
+8. [Howling Diplomat](hooks/08_howling_diplomat.md) - Awakened wolves seek recognition
 
 ## Quick Start
 
