@@ -18,7 +18,7 @@ Every ~150 years, the Heart of the Mountain emerges to renew the peace that save
 - [Delegation Encounters](delegation_encounters.md) - How the party meets each delegation
 - [Early Adventure Hooks](early_adventure_hooks.md) - Starting adventures that gradually reveal the truth
 
-### Adventure Hooks (Level 5+)
+### [Adventure Hooks (Level 5+)](early_adventure_hooks.md)
 1. [Apple Blight Mystery](hooks/01_apple_blight_mystery.md) - Daran's orchards suffer a strange transformation
 2. [Mining Meditation](hooks/02_mining_meditation.md) - Dwarf prospectors seek mysterious coordinates
 3. [Stolen Chickens Caper](hooks/03_stolen_chickens_caper.md) - Kobolds "improve" local livestock
