@@ -88,6 +88,15 @@
 - **Mission**: Establish rights for newly sapient beings
 - **Traveling with**: Awakened bear, raven, and badger advisors
 
+### 12. Kobold Delegation - The Candlekeeper Collective
+**Representative**: High Trapmaster Skrix the Overprepared
+- Leads 47 kobolds who insisted on coming (only 3 were officially invited)
+- Convinced the Heart's emergence location is determined by a complex trap mechanism
+- **Mission**: Protect everyone from the "obvious trap" that is a peace ritual
+- **Traveling with**: 47 kobolds, 2,000 feet of rope, 500 candles, 17 "safety chickens," countless trap components
+- **Cultural Quirk**: Believe all surface customs are elaborate tests of worthiness
+- **Running Gags**: Install "safety improvements" everywhere, form bucket brigades for no reason, take detailed notes on "suspicious" peaceful behavior
+
 ## Potential Complications
 
 ### Unexpected Arrivals

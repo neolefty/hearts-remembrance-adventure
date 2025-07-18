@@ -93,6 +93,18 @@ When the party has earned his trust (perhaps through their actions in Lost Mine)
 - Seeks to prove orcs have grown beyond their violent past
 - Brings young orcs who have never known constant war
 
+### The Enthusiastic Misunderstanding
+**First Sign**: Every door, window, and gate in Phandalin suddenly has "improvements"
+- Tiny bells appear on everything that moves
+- Chalk marks indicating "safe zones" cover the streets
+- Chickens keep appearing in strategic locations
+
+**The Delegation**: The **Candlekeeper Collective** (Kobolds)
+- Led by **High Trapmaster Skrix the Overprepared** and 46 uninvited cousins
+- Genuinely believe the peace ritual is an elaborate trap/test
+- Their "help" includes: trap-proofing the inn (no one can open doors now), establishing 24/7 candle vigils (fire hazard), and creating detailed evacuation plans for scenarios like "what if the trees attack"
+- Constantly taking notes on "suspicious" behavior like smiling, sharing food, or sleeping soundly
+
 ## The Comedy of Confusion
 
 As delegations arrive, Phandalin becomes wonderfully chaotic:
@@ -101,6 +113,9 @@ As delegations arrive, Phandalin becomes wonderfully chaotic:
 - Translation mishaps abound (the drow word for "peace" sounds like the dwarvish word for "collapse")
 - Everyone's looking for these mysterious Truthstones
 - Nobody's quite sure where they're supposed to go
+- Kobolds "helpfully" trap-proof everything, making daily life impossibly complicated
+- The bucket brigade practices at 3 AM (there's no fire)
+- Safety chickens keep escaping and forming their own delegation
 
 ## Daran's Guidance
 
