@@ -5,6 +5,7 @@
 [← Back to Overview](README.md) | [The Ritual →](heart_remembrance_ritual.md)
 
 ## Related Documents
+- [The Sundered Valley](sundered_valley.md) - Where it happened, where the Contest occurs
 - [The Heart's Remembrance](heart_remembrance_ritual.md) - The ritual that prevents another Sundering
 - [Who Attends](delegations_list.md) - Modern delegations to the ceremony
 - [How They Gather](delegation_encounters.md) - The current gathering

@@ -5,6 +5,7 @@
 [← Back to Overview](README.md) | [War of Sundering →](war_of_sundering.md)
 
 ## Quick Navigation
+- [The Sundered Valley](sundered_valley.md) - Where the Contest takes place
 - [Who Gathers](delegations_list.md) - All delegations attending
 - [How They Meet](delegation_encounters.md) - Delegation arrivals and interactions
 - [Quick Reference](delegation_encounter_cards.md) - DM encounter cards

@@ -165,3 +165,9 @@ When kobolds need equipment, roll:
 10. Safety cone (worn as hat)
 11. "Anti-trap spray" (water in bottle)
 12. Map of safe routes (leads directly into danger)
+
+---
+
+## The Kobold Safety Clan
+![Kobold Safety Clan in action](kobold-safety-clan.jpg)
+*The Candlekeeper Collective's advance safety survey team, hard at work "protecting" Wave Echo Cave from its obvious dangers*

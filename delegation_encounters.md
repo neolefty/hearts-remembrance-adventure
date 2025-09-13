@@ -5,6 +5,7 @@
 [← Back to Overview](README.md) | [Full Delegation List →](delegations_list.md) | [Quick Reference Cards →](delegation_encounter_cards.md)
 
 ## Related Resources
+- [The Sundered Valley](sundered_valley.md) - Where delegations are gathering
 - [Delegation Reference Cards](delegation_encounter_cards.md) - Quick stats and NPCs for running encounters
 - [Complete Delegation List](delegations_list.md) - All delegation backgrounds
 - [The Ritual Explained](heart_remembrance_ritual.md) - What happens when they gather
