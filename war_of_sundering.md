@@ -2,6 +2,14 @@
 
 *Approximately 2,000 years before present*
 
+[← Back to Overview](README.md) | [The Ritual →](heart_remembrance_ritual.md)
+
+## Related Documents
+- [The Heart's Remembrance](heart_remembrance_ritual.md) - The ritual that prevents another Sundering
+- [Who Attends](delegations_list.md) - Modern delegations to the ceremony
+- [How They Gather](delegation_encounters.md) - The current gathering
+- [Phandalin's Role](phandalin_history.md) - Local connections to ancient history
+
 ## The Conflict
 
 ### The Three Claims

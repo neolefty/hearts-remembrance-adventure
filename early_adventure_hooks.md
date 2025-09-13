@@ -2,6 +2,15 @@
 
 *For a party of 3-5 adventurers, currently level 5*
 
+[← Back to Overview](README.md) | [Next: The Apple Blight Mystery →](hooks/01_apple_blight_mystery.md)
+
+## Campaign Resources
+- [Delegations Arriving](delegation_encounters.md) - Who's coming to town
+- [Quick Reference Cards](delegation_encounter_cards.md) - NPCs and encounters
+- [Full Delegation List](delegations_list.md) - All faction details
+- [The Ritual](heart_remembrance_ritual.md) - What it's all about
+- [Local History](phandalin_history.md) - Regional background
+
 ## Hooks from Around Phandalin
 
 ### 1. [The Apple Blight Mystery](hooks/01_apple_blight_mystery.md)

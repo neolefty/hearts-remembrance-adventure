@@ -82,7 +82,8 @@ Skrik, Pip, Tik-Tak, Yeep, Grik, Zap, Mip, Thinky
 - Order vs Chaos decided every ~150 years
 - World currently leans Chaos (small nations)
 - Order has advantage in arguments
-- Contest in 3 days near Phandalin
+- Contest in 3 days at Sundered Valley
+- Valley is 3 hours northeast of Wave Echo Cave
 - Dragon delegate missing
 - Twin Prophets (Serenity & Strife) seen
 
@@ -131,13 +132,13 @@ Skrik, Pip, Tik-Tak, Yeep, Grik, Zap, Mip, Thinky
 
 ## End Scene Transitions
 
-### To Phandalin
-"The road to Phandalin shows signs of many travelers - wagon ruts, hoof prints, and... are those chicken tracks?"
+### To Sundered Valley
+"Following directions northeast from the cave, you notice shadows falling upward and your compass spinning. A narrow ravine ahead seems to dead-end..."
 
-### Daran's Reaction
-- Interested in delegation choices
-- "The pendulum swings, as it must"
-- Offers to introduce other delegations
+### If Asked About the Valley
+- Daran: "Follow marker stones northeast from the cave"
+- "Speak either prophet's name to pass the barrier"
+- Others: "Sundered Valley? That's just a legend..."
 
 ### Next Session Seeds
 - Other delegations arriving

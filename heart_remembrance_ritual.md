@@ -1,5 +1,16 @@
 # The Contest of the Heart
 
+*The sacred ritual that maintains balance between Order and Chaos*
+
+[← Back to Overview](README.md) | [War of Sundering →](war_of_sundering.md)
+
+## Quick Navigation
+- [Who Gathers](delegations_list.md) - All delegations attending
+- [How They Meet](delegation_encounters.md) - Delegation arrivals and interactions
+- [Quick Reference](delegation_encounter_cards.md) - DM encounter cards
+- [The Ancient Conflict](war_of_sundering.md) - Why this ritual exists
+- [Adventure Hooks](early_adventure_hooks.md) - Getting the party involved
+
 ## The Cycle of Judgment
 
 Approximately every **150 years**, the Heart of the Mountain emerges to judge whether the world needs Order or Chaos to dominate the coming age. The exact timing follows the world's spiritual accumulation—when the balance tips too far, the Heart stirs. Most who witness one Contest will never see another, making each emergence both feared and anticipated.

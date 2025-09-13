@@ -1,5 +1,15 @@
 # Delegations to the Heart's Remembrance
 
+*Complete delegation backgrounds and motivations for the Heart's Remembrance ceremony*
+
+[← Back to Overview](README.md) | [Encounter Cards →](delegation_encounter_cards.md)
+
+## Quick Links
+- [Encounter Reference Cards](delegation_encounter_cards.md) - Quick stats and NPCs for game sessions
+- [How Delegations Arrive](delegation_encounters.md) - First contact and meeting scenes
+- [The Ritual Itself](heart_remembrance_ritual.md) - What they're gathering for
+- [Historical Context](war_of_sundering.md) - Why this matters
+
 ## Traditional Delegations (Original Three)
 
 ### 1. Dwarven Delegation - Clan Truthforge

@@ -27,13 +27,13 @@ As the party exits Wave Echo Cave, they find a dwarven caravan stopped on the pa
 **Grimvar's Position (Order):**
 - "The Forge of Spells in that cave proves our ancestors' wisdom!"
 - "We must preserve what works, honor the traditions"
-- "At the Contest, we'll argue for the stability that builds civilizations"
+- "At the Contest in the Sundered Valley, we'll argue for the stability that builds civilizations"
 - Shows party an ancient runestone: "This has guided us for 1,000 years"
 
 **Thorina's Position (Chaos):**
 - "The Forge was an EXPERIMENT! Our ancestors were innovators!"
 - "Tradition becomes stagnation. We must evolve or die"
-- "At the Contest, we'll argue for the freedom that creates progress"
+- "At the Contest in the Sundered Valley, we'll argue for the freedom that creates progress"
 - Shows party her mechanical map: "This shows seventeen new ore veins tradition would never find"
 
 ### The Challenge Layer 1: The Combat (Optional)
@@ -114,10 +114,12 @@ If party wants to champion either side:
 
 ### Information Learned
 - Full explanation of the Contest
+- Location: The Sundered Valley (3 hours northeast of Wave Echo Cave)
 - Order currently favored (world is chaotic)
-- Other delegations gathering in Phandalin
+- Other delegations already gathering there
 - Twin Prophets have been seen
 - Dragon delegation still missing
+- Dwarves have conflicting maps to the Valley
 
 ---
 

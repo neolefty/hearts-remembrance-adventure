@@ -1,5 +1,16 @@
 # The Hidden History of Phandalin Region
 
+*Local connections to the ancient past and current mysteries*
+
+[← Back to Overview](README.md) | [Adventure Hooks →](early_adventure_hooks.md)
+
+## Campaign Context
+- [The Ancient War](war_of_sundering.md) - The cosmic conflict that shaped everything
+- [The Heart's Ritual](heart_remembrance_ritual.md) - Why Phandalin matters now
+- [Delegations Arriving](delegation_encounters.md) - Current events in town
+- [Who's Coming](delegations_list.md) - The various peoples gathering
+- [Quick Reference](delegation_encounter_cards.md) - Running encounters
+
 ## Ancient Timeline
 
 ### The Age of the Delzoun Dwarves (1,000+ years ago)

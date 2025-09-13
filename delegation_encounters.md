@@ -1,5 +1,16 @@
 # The Gathering of Delegates
 
+*How the delegations arrive and interact as they seek the Heart's emergence*
+
+[← Back to Overview](README.md) | [Full Delegation List →](delegations_list.md) | [Quick Reference Cards →](delegation_encounter_cards.md)
+
+## Related Resources
+- [Delegation Reference Cards](delegation_encounter_cards.md) - Quick stats and NPCs for running encounters
+- [Complete Delegation List](delegations_list.md) - All delegation backgrounds
+- [The Ritual Explained](heart_remembrance_ritual.md) - What happens when they gather
+- [Adventure Hooks](early_adventure_hooks.md) - Ways to involve the party
+- [Phandalin's Role](phandalin_history.md) - Why this town matters
+
 ## The Mystery of Location
 
 The Heart doesn't emerge in the same place each time. The last emergence was at Serenity's Grove, but that was 147 years ago. The location shifts according to the world's spiritual balance—appearing where the Contest between Order and Chaos will have the most profound impact.

@@ -1,5 +1,16 @@
 # Delegation Encounter Reference Cards
 
+*Quick reference cards for running delegation encounters in the Heart's Remembrance campaign*
+
+[← Back to Delegation Encounters](delegation_encounters.md) | [Delegation List →](delegations_list.md)
+
+## Related Documents
+- [Full Delegation Descriptions](delegations_list.md) - Complete delegation backgrounds
+- [Delegation Encounters Guide](delegation_encounters.md) - How delegations arrive and interact
+- [The Heart's Remembrance Ritual](heart_remembrance_ritual.md) - Understanding the ceremony
+- [War of Sundering](war_of_sundering.md) - The mythic history behind it all
+- [Early Adventure Hooks](early_adventure_hooks.md) - Starting the campaign
+
 ## Card Format Guide
 Each card contains:
 - **Delegation Name & Philosophy** (Order/Chaos/Undecided)
