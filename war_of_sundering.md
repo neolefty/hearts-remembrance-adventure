@@ -1,4 +1,4 @@
-# The War of Sundering: When Reality Nearly Broke
+# The War of Sundering: When Balance Was Lost
 
 *Approximately 2,000 years before present*
 
@@ -6,9 +6,9 @@
 
 ### The Three Claims
 The war began over the **Heart of the Mountain** - a massive crystalline formation deep beneath the Sword Mountains that was simultaneously:
-- **To the Dwarves**: The first forge of Moradin, where he shaped the prime material plane
-- **To the Elves**: A fallen star containing the tears of Corellon, holding memories of the world's creation
-- **To the Dragons**: An egg of Io, the progenitor of all dragonkind, waiting to hatch the "Final Dragon"
+- **To the Dwarves**: The Eternal Anvil, where the cosmic forces of Order and Chaos are meant to be hammered into balance
+- **To the Elves**: The Equilibrium Star, a celestial judge that weighs the world's spiritual state
+- **To the Dragons**: The Egg of Cycles, containing the power to reset reality's pendulum when it swings too far
 
 ### The Participants
 - **The Delzoun Empire**: Led by **High King Thorgrim the Unyielding**
@@ -43,21 +43,34 @@ When Syzygax tried to claim the Heart alone, the conflicting mythologies caused 
 - Reality couldn't reconcile these truths, causing cascading logical failures
 - The laws of cause and effect started breaking down
 
-## The Prophet's Arrival
+## The Twin Prophets' Arrival
 
-### Serenity Truthweaver
-A humble human shepherd named **Elara** was chosen by **Ilmater** (god of compassion and endurance) and transformed into **Serenity Truthweaver**, the Prophet of Reconciliation.
+### The Divine Balance
+At the moment reality began to tear, two humans were simultaneously chosen by minor aspects of the divine:
 
-### Her Divine Gifts
+**Serenity Truthweaver** - Once a shepherd named **Elara**, chosen by **Ilmater** (god of compassion)
 - **The Voice of All Sorrows**: She could speak and be understood by any being, in words that touched their deepest pain
 - **The Eyes of Shared Pain**: Those who looked into her eyes experienced the suffering they had caused others
 - **The Touch of Understanding**: Her touch allowed bitter enemies to truly understand each other's perspectives
 
-### The Teaching
-Serenity didn't preach peace through weakness. Instead, she taught the **Doctrine of Threefold Truth**:
-1. "All claims to the Heart are true, for truth is not singular but prismatic"
-2. "To claim sole ownership is to shatter the very thing you seek"
-3. "Only in unity can the Heart be whole, only in division does reality break"
+**Strife Edgewalker** - Once a soldier named **Gareth**, chosen by **Tempus** (god of conflict)
+- **The Voice of Necessary Trials**: His words awakened the desire to test oneself against worthy challenges
+- **The Eyes of Revealed Weakness**: Those who met his gaze saw their own stagnation and complacency
+- **The Touch of Awakening**: His touch shattered comfortable illusions, forcing acknowledgment of harsh truths
+
+They are not great powers but divine servants - significant to mortals yet minor in the cosmic hierarchy.
+
+### The Twin Teaching
+The prophets taught together, their words interweaving:
+
+**Serenity**: "Peace without challenge breeds decay"
+**Strife**: "Conflict without purpose breeds only ash"
+
+**Together they proclaimed the Doctrine of Eternal Contest**:
+1. "The Heart is neither good nor evil, but the judge of what the world requires"
+2. "Order and Chaos are both necessary - stagnation and suffering are both teachers"
+3. "Those who would force one outcome deny the wisdom of cycles"
+4. "We are bound as one - neither compassion nor conflict alone can guide the world"
 
 ## The Resolution: The Binding of the Heart
 
@@ -68,17 +81,18 @@ Serenity guided the leaders in a ritual that required:
 - **Draconic Essence**: Each dragon contributing a scale, metallic and chromatic together
 
 ### The Great Renunciation
-Each race had to give up their exclusive claim:
-- Dwarves acknowledged the Heart wasn't just a forge
-- Elves accepted it wasn't merely Corellon's tear
-- Dragons admitted it wasn't only Io's egg
-- The Illithids were forced to reveal themselves and pledge to never manipulate the races again
+Guided by both prophets, each race had to accept a harder truth:
+- Dwarves acknowledged that perfect Order leads to death through stagnation (Strife showed them their mountain halls crumbling from within)
+- Elves accepted that absolute peace breeds weakness and decline (Serenity showed them their culture growing hollow)
+- Dragons admitted that pure Chaos consumes even its champions (Both prophets showed them devouring themselves)
+- The Illithids were forced to reveal they had tried to lock reality in permanent stasis for their own benefit
 
 ### The Sundering Seal
-The Heart was successfully stabilized but at a cost:
-- It was sealed away in a pocket dimension accessible only when all three races agreed
-- The reality damage was repaired, but scars remained
-- A portion of Serenity's essence was bound into the seal as an eternal guardian
+The Heart was transformed into an impartial arbiter:
+- It retreats to judge the world's accumulated actions every ~150 years
+- When it returns, it weighs whether Order or Chaos better serves the coming age
+- Both Serenity and Strife's essences were bound to the Heart - eternal advocates for their philosophies
+- They manifest during each Contest to present their cases through the assembled representatives
 
 ## Traces for Adventurers
 
@@ -119,10 +133,11 @@ Seven bells forged from Serenity's tears:
 ### Living Echoes
 
 #### The Reconciled
-Immortal witnesses who were touched by Serenity:
-- Cannot die until the Heart is needed again
-- Each guards a piece of crucial knowledge
-- They appear as wanderers, testing adventurers' wisdom
+Immortal witnesses touched by both prophets:
+- Cannot die until they've served both Order and Chaos equally
+- Half guard Serenity's wisdom of compassion, half guard Strife's wisdom of strength
+- They appear as wanderers, testing adventurers with both mercy and trials
+- They alone remember what happens when either force wins completely
 
 #### The Sundered Ones
 Beings caught in the reality storm:
@@ -150,25 +165,30 @@ What if all three races were wrong?
 - Perhaps it's a prison for something that should never be released
 - Or maybe it's counting down to something
 
-#### Serenity's Sacrifice
-The prophet didn't simply disappear:
-- She became part of the seal itself
-- Some say she can still be contacted in places of great suffering
-- Her compassion might be the only thing keeping the Heart stable
+#### The Twin Sacrifice
+Both prophets chose eternal service:
+- Serenity experiences every joy and suffering in the world simultaneously
+- Strife feels every conflict and every stagnation, every victory and defeat
+- Between Contests, they walk the world as wanderers - appearing as traveling siblings, merchants, or pilgrims
+- They've been seen playing chess in taverns, each game a philosophical debate made manifest
+- Their divine burden is light enough to allow mortal pleasures but heavy enough to never forget their purpose
 
 ## Current Threats
 
-### The Seal Weakens
-Signs that worry scholars:
-- Peace Trees dying without explanation
-- Truthstones cracking and leaking liquid light
-- Reconciled reporting shared dreams of Serenity screaming
+### The Coming Contest
+Signs that the judgment approaches:
+- Peace Trees bloom or wither based on local balance - thriving where equilibrium exists
+- Truthstones resonate with increasing frequency, some singing Serenity's lullabies, others echoing Strife's battle-drums
+- The Reconciled dream of both prophets weighing souls on cosmic scales
+- Wolves howl in harmony (Serenity's sign) while hawks circle in formation (Strife's sign)
 
-### The Inheritors
-Extremist factions in each race seek to reclaim "their" Heart:
-- **The Hammers of Reclamation** (Dwarven fundamentalists)
-- **The Starlight Court** (Elven revanchists)  
-- **The Dragons of the First Egg** (Draconic supremacists)
+### The Competing Philosophies
+Factions prepare their arguments for the Contest:
+- **The Hammers of Foundation** (Dwarven Order - believing civilization's achievements prove Order's superiority)
+- **The Starlight Anarchists** (Elven Chaos - claiming that only through upheaval does magic truly flourish)  
+- **The Dragons of the Pendulum** (Draconic neutrals who seek to ensure neither side wins completely)
+- **The Brotherhood of Strife** (Warriors who believe this age has grown too soft)
+- **The Servants of Serenity** (Healers who point to recent wars as proof that Order is needed)
 
 ### The Hidden Manipulators
 The Illithids never forgave their forced revelation:

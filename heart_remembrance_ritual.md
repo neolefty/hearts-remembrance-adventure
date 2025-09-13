@@ -1,10 +1,10 @@
-# The Remembrance of the Heart
+# The Contest of the Heart
 
-## The Cycle of Return
+## The Cycle of Judgment
 
-Approximately every **150 years**, the Heart of the Mountain emerges from its pocket dimension. The exact timing is mysterious—sometimes it comes after 143 years, sometimes 157, following rhythms known only to itself. Most who witness one Remembrance will never see another, making each emergence precious and somewhat mythical to the common folk.
+Approximately every **150 years**, the Heart of the Mountain emerges to judge whether the world needs Order or Chaos to dominate the coming age. The exact timing follows the world's spiritual accumulation—when the balance tips too far, the Heart stirs. Most who witness one Contest will never see another, making each emergence both feared and anticipated.
 
-The Heart manifests for **three days and three nights**, though even this can vary slightly, like a living thing drawing breath.
+The Heart manifests for **three days and three nights** of trial and argument, during which the world's fate is decided.
 
 ### Signs of Approach
 The signs vary with each emergence, as organic and unpredictable as the seasons, but may include:
@@ -42,61 +42,74 @@ Added over the centuries:
 - **For the Wanderers**: Those without homeland - often a representative of mixed heritage
 - **For the Wild**: A druid or ranger speaking for nature itself
 
-### The Ritual Requirements
+### The Contest Requirements
 
-**Not Rigid but Flexible**: The ritual has evolved to be remarkably adaptive:
-- If a race cannot send a representative, another may "hold their place in trust"
-- New peoples can be recognized if they demonstrate understanding of the Heart's lesson
-- The minimum requirement is simply three representatives, though seven is traditional
-- Representatives need not be pure-blooded; the Heart recognizes cultural allegiance over bloodline
+**The Two Camps**: Representatives must declare for Order or Chaos:
+- **Order's Advocates** argue for stability, protection, law, and collective prosperity
+- **Chaos's Champions** argue for freedom, innovation, natural selection, and individual achievement
+- Uncommitted representatives may observe but cannot influence the outcome
+- The Heart weighs not just arguments but the **lived example** of each philosophy's representatives
+- A people may switch sides between Contests based on their experiences
 
-### The Opening Words
-Spoken in unison by all representatives:
-*"We come not as claimants but as children*
-*Not as owners but as guardians*
-*In our diversity, we find strength*
-*In our unity, we preserve the world"*
+### The Opening Invocation
+The Twin Prophets appear and speak:
 
-## The Three Days of Remembrance
+**Serenity**: *"I call those who would heal, build, and preserve"*
+**Strife**: *"I call those who would challenge, change, and evolve"*
 
-### First Day: The Sorrow
-- Representatives share stories of conflicts from the past century and a half
-- Each admits their people's failures and mistakes
-- The Heart projects visions of what unchecked conflict could unleash
-- Elara's presence is felt as a gentle sadness for necessary pain
+**Together**: *"Let the Heart weigh your words, your deeds, and your dreams*
+*Let the Contest reveal what the world truly needs"*
 
-### Second Day: The Understanding  
-- Representatives exchange gifts that represent their cultures' contributions
-- They participate in each other's cultural practices
-- The Heart glows brighter as unity strengthens
-- Elara's laughter can be heard in the wind as old enemies become friends
+## The Three Days of Contest
 
-### Third Day: The Renewal
-- New oaths of friendship are sworn, not binding but aspirational
-- Young people are brought to witness and learn
-- The Heart reveals visions of cooperation and shared prosperity
-- Elara's blessing manifests as a warm light that heals old wounds
+### First Day: The Accounting
+- **Order** presents the costs of recent chaos: deaths, suffering, destroyed settlements
+- **Chaos** presents the costs of recent stagnation: corruption, tyranny, lost opportunities
+- The Heart projects visions of what each path might bring if taken to extremes
+- Both prophets walk among the representatives, challenging weak arguments
+
+### Second Day: The Demonstration  
+- Each side must prove their philosophy through action, not just words
+- **Order** might organize a complex cooperative task showing coordination's power
+- **Chaos** might stage competitions revealing how conflict breeds excellence
+- Unexpected alliances form as representatives realize the complexity of choice
+- The Heart pulses with different colors as arguments sway its judgment
+
+### Third Day: The Judgment
+- Final arguments are made as dawn approaches
+- The Twin Prophets offer their own perspectives, often surprising both sides
+- The Heart renders its verdict at sunset: a slight tilt toward Order or Chaos
+- The losing side accepts the judgment, knowing their time will come again
 
 ## The Current Crisis
 
 ### The Missing Dragon
-For the first time in over 300 years, **no dragon representative has announced their intention to attend**. The reasons are unclear:
-- The ancient dragon **Othokent the Sapphire**, who usually sends a representative, has been silent
-- Young dragons seem uninterested in "ancient ceremonies"
-- Rumors suggest chromatic and metallic dragons are feuding again over territory
+For the first time in over 300 years, **no dragon representative has announced their intention to attend**. This is especially significant because:
+- Dragons traditionally favor **Chaos** but respect the need for balance
+- The ancient dragon **Othokent the Sapphire** hasn't declared which side he supports
+- Young dragons dismiss the Contest as "mortal games"
+- Without dragon participation, Chaos loses powerful advocates
 
 ### New Peoples Seeking Recognition
 - **The Orcish Confederation of the Northern Reaches** has sent an embassy requesting representation
 - **Refugee Drow** from the Underdark, fleeing their cruel society, wish to prove they've changed
 - **Awakened Beings** (animals given sentience by druids) believe they deserve a voice
 
-### The Consequences of Absence
-The ritual is remarkably resilient—it will proceed even with missing representatives. However, those peoples who fail to send a representative forfeit their blessing:
-- **For the absent people**: They receive no renewal of Elara's grace, making conflicts more likely among them
-- **For the ritual**: The Heart dims slightly for each absence, but still functions
-- **For the region**: The overall peace holds, but with noticeable gaps where the absent peoples dwell
+### The Consequences of Victory
 
-The ritual has survived missing representatives before—twice the dwarves were absent due to deep wars, once no elf could attend during a plague. The Heart's wisdom adapts, though it grieves each absence.
+**If Order Wins**:
+- Laws become easier to enforce, oaths harder to break
+- Diseases retreat, harvests improve, trade flourishes
+- But also: innovation slows, social mobility decreases, traditions calcify
+- The world grows safer but less vibrant
+
+**If Chaos Wins**:
+- Magic surges, new discoveries emerge, heroes rise
+- Old tyrannies crumble, opportunities multiply
+- But also: bandits multiply, monsters grow bolder, alliances fracture
+- The world grows more dangerous but more alive
+
+**The Subtle Shift**: The Heart never swings fully - it tilts perhaps 60-40, never 100-0. Both forces remain, one simply has advantage.
 
 ## Adventure Opportunities
 
@@ -121,13 +134,18 @@ The ritual has survived missing representatives before—twice the dwarves were 
 - **What** is the significance of seven new stars appearing in the constellation of Ilmater?
 - **Who** is the mysterious figure in white seen near Serenity's Grove at midnight?
 
-## Rewards of Success
+## Rewards of Participation
 
-### When the Ritual Completes
-- Each participating people receives the Heart's blessing for the coming age
-- Representatives gain a **Shard of Understanding** (magical item promoting empathy)
-- The party gains **Elara's Grace** if they helped the ritual succeed
-- Those peoples who participated find cooperation easier, trade flourishes, and conflicts resolve more readily
+### For the Winning Side
+- Their representatives gain **Marks of Victory** - subtle boons aligned with their philosophy
+- Order victors might gain resistance to charm and fear
+- Chaos victors might gain advantage on initiative and innovation
+- Their lands subtly benefit from the Heart's judgment
+
+### For the Losing Side  
+- They gain **Wisdom of Defeat** - understanding of their philosophy's current weaknesses
+- This knowledge helps them prepare stronger arguments next time
+- Many of history's greatest leaders emerged from the losing side of a Contest
 
 ### The Strength of the Ritual
 The Heart has never failed to appear, even during the worst times:
@@ -135,12 +153,19 @@ The Heart has never failed to appear, even during the worst times:
 - When plague prevented travel, local residents stood as emergency representatives
 - The ritual's resilience is itself part of Elara's teaching: peace persists through dedication, not perfection
 
-## Notes on Elara's Presence
+## Notes on the Twin Prophets
 
-When the Heart fully manifests, Elara doesn't appear physically but her presence is undeniable:
-- Her voice offers personal guidance to each representative
-- She remembers every previous ceremony and can share wisdom from the past
-- Those touched by her presence cannot commit violence for a full month afterward
-- Children born during the three days are said to be natural peacemakers
+When the Heart manifests, both Serenity and Strife appear in physical form:
+- They age slightly with each Contest, showing their divine burden
+- Serenity often weeps during the Accounting, feeling all the pain presented
+- Strife sometimes laughs during the Demonstration, delighting in clever arguments
+- They've been known to switch sides mid-argument to play devil's advocate
+- After the Judgment, they embrace regardless of outcome - they are partners, not enemies
 
-Her most powerful gift is **The Moment of Perfect Understanding** - for just an instant, everyone present truly comprehends everyone else's perspective completely. This experience is so profound that many spend the rest of their lives trying to recapture that feeling of absolute connection.
+**The Moment of Perfect Balance**: At the instant of Judgment, everyone present briefly experiences true equilibrium - understanding exactly why both Order and Chaos are necessary. This moment of cosmic clarity haunts participants forever, making extremism impossible for those who've felt it.
+
+**Between Contests**: The prophets walk the world:
+- Sometimes as traveling merchants, testing people's honesty (Serenity) and courage (Strife)
+- Often as an elderly couple running inns, dispensing cryptic advice
+- Occasionally as rival bards, their musical duels actually philosophical debates
+- They cannot directly interfere but often nudge events toward balance

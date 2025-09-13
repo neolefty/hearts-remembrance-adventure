@@ -2,14 +2,14 @@
 
 ## The Mystery of Location
 
-The Heart doesn't emerge in the same place each time. The last emergence was at Serenity's Grove, but that was 147 years ago. The location shifts according to needs unknown—perhaps where peace is most fragile, or where the land itself calls out.
+The Heart doesn't emerge in the same place each time. The last emergence was at Serenity's Grove, but that was 147 years ago. The location shifts according to the world's spiritual balance—appearing where the Contest between Order and Chaos will have the most profound impact.
 
 ### The Seeking Stones
 Ancient **Truthstones** scattered throughout the region begin resonating as the Heart approaches. When three or more are brought together, they pull gently toward the emergence site—but delegates must cooperate to gather enough stones to triangulate the location.
 
 ## The Hidden Delegate: Daran Edermath
 
-The old half-elf orchard keeper of Phandalin carries a secret heavier than his years suggest. **Daran Edermath** is the last delegate of the **Watchers of the First Peace**—descendants of those who witnessed Elara's original teaching. His order has dwindled to perhaps a dozen souls scattered across the Sword Coast, but they remember.
+The old half-elf orchard keeper of Phandalin carries a secret heavier than his years suggest. **Daran Edermath** is the last delegate of the **Watchers of Balance**—descendants of those who witnessed both Serenity and Strife's original teaching. His order has dwindled to perhaps a dozen souls scattered across the Sword Coast, but they remember the true purpose of the Contest.
 
 ### Why Daran Hides
 - His order guards knowledge that some would exploit—the true names of the Reconciled, the words that can summon memories from Truthstones
@@ -18,9 +18,9 @@ The old half-elf orchard keeper of Phandalin carries a secret heavier than his y
 
 ### The Revelation
 When the party has earned his trust (perhaps through their actions in Lost Mine), Daran might:
-- "Accidentally" show them his **Delegate's Mark**—a silver tattoo that appears only in moonlight
-- Share old stories that are suspiciously detailed about the last Remembrance
-- Gift them an apple from a tree grown from a seed of the Peace Trees
+- "Accidentally" show them his **Delegate's Mark**—twin tattoos, silver (Serenity) and gold (Strife), that appear in moonlight
+- Share old stories about how the last Contest tipped toward Order, leading to the current age's great kingdoms
+- Gift them an apple from a tree grown from seeds of both Peace Trees (order) and Thorn Vines (chaos)
 
 ## Early Signs: The Delegations Arrive
 
@@ -33,8 +33,9 @@ When the party has earned his trust (perhaps through their actions in Lost Mine)
 **The Delegation**: The Githyanki of the **Silvered Chain**
 - Led by **Zetch'r'r the Humbled**, who wears her shame like armor
 - Once commanded hundreds; now grateful for the six who still follow
-- They missed the last Remembrance out of pride—147 years of civil war followed
-- Brings gifts but expects nothing, prepared for rejection
+- They missed the last Contest out of pride—147 years of civil war followed
+- **Declaring for ORDER**: "Only through discipline did we survive our chaos"
+- But her followers are split—half believe they need Chaos to truly break free from the Lich Queen
 
 ## Other Delegations
 
@@ -44,10 +45,11 @@ When the party has earned his trust (perhaps through their actions in Lost Mine)
 - Purchasing every scrap of silver in Phandalin
 - Setting up camps with ceremonial braziers that burn with blue flame
 
-**The Delegation**: Clan Truthforge sends **Master Artificer Thorina Goldspeak**
-- A young dwarf (barely 50) chosen for her innovative spirit over traditional seniority
-- Brings a contingent of apprentices who double as guards
-- Seeks to prove that youth can honor ancient traditions
+**The Delegation**: Two competing dwarven groups arrive
+- **For ORDER**: **Elder Thane Grimvar Ironfoot**, defending tradition and proven methods
+- **For CHAOS**: **Master Artificer Thorina Goldspeak**, championing innovation and progress
+- Both claim to be the "true" dwarven delegation
+- The Contest has split their ancient clan for the first time in centuries
 
 ### The Whispers from Below
 **First Sign**: Wells in Phandalin run strange—water tastes of distant rain, sometimes glows faintly
@@ -57,8 +59,10 @@ When the party has earned his trust (perhaps through their actions in Lost Mine)
 
 **The Delegation**: Reformed Drow from **House Mel'thiir** (House of Redemption)
 - Led by **Velara Mel'thiir**, a priestess who turned from Lolth to Eilistraee
+- **Declaring for ORDER**: "We've seen where chaos leads—to Lolth's web of betrayal"
 - Travel by night, camp underground by day
 - Bring gifts of spider silk and fungal medicines to prove good intentions
+- Face constant assassination attempts from Chaos-aligned Lolth loyalists
 
 ### The Wild's Awakening
 **First Sign**: Nature itself grows strange around Phandalin
@@ -66,10 +70,11 @@ When the party has earned his trust (perhaps through their actions in Lost Mine)
 - Animals gather in mixed groups, predator and prey together
 - Flowers bloom in spirals that point toward the Heart's emergence
 
-**The Delegation**: The **Elderoak Parliament**—awakened trees and their druid shepherds
-- **Speaker Mosswhisper**, an awakened oak who remembers the last three Remembrances
-- Travels as a walking grove, roots connecting underground
-- Seeks recognition for plant consciousness in the ritual
+**The Delegation**: Nature itself cannot agree
+- **For ORDER**: **Willowmend** leads druids who protect and nurture—"Nature is a garden"
+- **For CHAOS**: **Bloodmoon**, an awakened dire wolf, leads predators—"Nature is survival"
+- They argue whether nature means harmony or competition
+- **Speaker Mosswhisper**, an ancient awakened oak, refuses to choose sides and may abstain
 
 ### The Wanderer's Caravan
 **First Sign**: Refugees and travelers converge on Phandalin without knowing why
@@ -90,7 +95,9 @@ When the party has earned his trust (perhaps through their actions in Lost Mine)
 
 **The Delegation**: The **Broken Tusk Confederation**
 - **Chieftain Mokran the Poet**, an orc who speaks in verse and values words over weapons
-- Seeks to prove orcs have grown beyond their violent past
+- **Surprisingly declaring for ORDER**: "Chaos has been our curse for too long"
+- Seeks to prove orcs can build lasting civilizations
+- Faces mockery from traditional orc tribes who embrace Chaos
 - Brings young orcs who have never known constant war
 
 ### The Enthusiastic Misunderstanding
@@ -119,10 +126,11 @@ As delegations arrive, Phandalin becomes wonderfully chaotic:
 
 ## Daran's Guidance
 
-As tensions rise and confusion mounts, Daran might finally reveal himself:
-- He knows the old protocols for greeting each delegation
-- He can teach the party the signs to watch for the Heart's emergence
-- Most importantly, he remembers Elara's core teaching: "In confusion, find laughter. In difference, find strength."
+As tensions rise and delegations declare their philosophies, Daran might finally reveal himself:
+- He knows the old protocols for ensuring fair Contest between Order and Chaos
+- He can teach the party the signs that show which force the world truly needs
+- Most importantly, he remembers both prophets' teaching: "Neither Order nor Chaos alone can sustain the world"
+- He warns that someone may be trying to ensure one side wins completely—which would be catastrophic
 
 ## Adventure Hooks
 
@@ -141,10 +149,11 @@ As tensions rise and confusion mounts, Daran might finally reveal himself:
 - Ancient prejudices are inflamed
 - Who benefits from the ritual failing?
 
-### The Test of Understanding
-- The Heart won't emerge until the delegations demonstrate unity
-- Traditional competitions of skill become opportunities for cooperation
-- The party must help orchestrate moments of connection
+### The Test of Contest
+- The Heart won't emerge until both sides have worthy champions
+- Delegations must prove their philosophy through action, not just words
+- The party might need to ensure BOTH sides are represented fairly
+- Someone seems to be sabotaging Chaos delegates specifically—why?
 
 ## The Human Element
 
@@ -155,4 +164,4 @@ Each delegate brings personal stakes:
 - **Grandmother Safa** juggles the needs of dozens of refugee populations
 - **Mokran** knows one violent incident could destroy orc credibility forever
 
-The party's role becomes helping these individuals succeed, not just as delegates but as people bridging ancient divides with hope and determination.
+The party's role becomes ensuring a fair Contest—not picking sides but making sure both Order and Chaos have their say. The world needs balance, not victory. But with the current slight chaos in the world (small nations, no great empires), Order's arguments seem stronger this cycle. Unless something tips the scales...
